@@ -1,5 +1,6 @@
 ## Hi there 👋
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+<h2> Hi, I'm Thai Braga! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 <!--
 **diaz20px/diaz20px** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
