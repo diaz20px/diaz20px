@@ -1,5 +1,12 @@
 <h2> Hi, I'm wilinton diaz! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+#### 🏊‍♂️ Weekly Development Breakdown
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://x.tw93.fun/images/wakatime_weekly_language_stats_black.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://x.tw93.fun/images/wakatime_weekly_language_stats.svg">
+  <img src="https://x.tw93.fun/images/wakatime_weekly_language_stats.svg">
+</picture>
 
 
 <!--
